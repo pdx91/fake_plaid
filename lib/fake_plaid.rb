@@ -1,7 +1,10 @@
+require 'fake_plaid/configuration'
 require 'fake_plaid/initializers/webmock'
 require 'fake_plaid/stub_app'
 
 module FakePlaid
+  extend Configuration
+
   def self.stub_plaid
     Plaid.env = 'sandbox'
     Plaid.client_id = 'PLAID_CLIENT_ID'
