@@ -1,0 +1,61 @@
+{
+  "accounts": [
+    {
+      "account_id": "Z3AAon4PK4HWq5ZjVr8MI7zaoax8oKHgpkXgx",
+      "balances": {
+        "available": 100,
+        "current": 110
+      },
+      "mask": "0000",
+      "name": "Plaid Checking",
+      "subtype": "checking",
+      "type": "depository"
+    },
+    {
+      "account_id": "MkVVaQ8ye8soRyXewdExhlpzkzJgkqi9vZP9k",
+      "balances": {
+        "available": 200,
+        "current": 210
+      },
+      "mask": "1111",
+      "name": "Plaid Saving",
+      "subtype": "savings",
+      "type": "depository"
+    },
+    {
+      "account_id": "1nBBogRzjRSmAKNbz3GnsJWxMxmeMpu5Rve5E",
+      "balances": {
+        "available": null,
+        "current": 1000
+      },
+      "mask": "2222",
+      "name": "Plaid CD",
+      "subtype": "cd",
+      "type": "depository"
+    },
+    {
+      "account_id": "L8wwdekm7kI4o36rGaJvCQK141Ap4NiPMzpPz",
+      "balances": {
+        "available": null,
+        "current": 410
+      },
+      "mask": "3333",
+      "name": "Plaid Credit Card",
+      "subtype": "credit card",
+      "type": "credit"
+    },
+    {
+      "account_id": "pGmmrQBq8BI6anmw817NsMV6A6rdAKULGmVLy",
+      "balances": {
+        "available": 43200,
+        "current": 43200
+      },
+      "mask": "4444",
+      "name": "Plaid Money Market",
+      "subtype": "money market",
+      "type": "depository"
+    }
+  ],
+  "public_token": "public-sandbox-5fc6e499-efa4-46a1-8b2f-725b7c865414",
+  "request_id": "DrqYukwqljC2R3O"
+}
