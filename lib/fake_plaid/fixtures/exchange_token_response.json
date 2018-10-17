@@ -1,0 +1,59 @@
+{
+  "access_token": "access-sandbox-some-random-long-access-token",
+  "item_id": "M5eVJqLnv3tbzdngLDp9FL5OlDNxlNhlE55op",
+  "request_id": "Aim3b",
+  "metadata": {
+    "institution": {
+      "name": "Chase",
+      "institution_id": "ins_3"
+    },
+    "account": {
+      "id": "",
+      "name": "",
+      "type": "",
+      "subtype": "",
+      "mask": ""
+    },
+    "account_id": "",
+    "accounts": {
+      "0": {
+        "id": "k9vmxbv3LXF61XGqGeD6fwNzoMxewBiW5Vo7N",
+        "name": "Plaid Checking",
+        "mask": "0000",
+        "type": "depository",
+        "subtype": "checking"
+      },
+      "1": {
+        "id": "rzv5gRvkAXSG3Kydy7bGiPZnNBLjPmFlR51bg",
+        "name": "Plaid Saving",
+        "mask": "1111",
+        "type": "depository",
+        "subtype": "savings"
+      },
+      "2": {
+        "id": "KqJV4aJvGwCp5xvyv1bpTaQ3wXv1aKsVXB1oa",
+        "name": "Plaid CD",
+        "mask": "2222",
+        "type": "depository",
+        "subtype": "cd"
+      },
+      "3": {
+        "id": "lv619W6xpghGlWxKx9wGiw8jK7pvwXiZ3XRBl",
+        "name": "Plaid Credit Card",
+        "mask": "3333",
+        "type": "credit",
+        "subtype": "credit card"
+      },
+      "4": {
+        "id": "qrvjbXvPW5UWn9XxXNDWfVnZwLymV4FdKDRlZ",
+        "name": "Plaid Money Market",
+        "mask": "4444",
+        "type": "depository",
+        "subtype": "money market"
+      }
+    },
+    "link_session_id": "4af849cb-8473-45d3-9090-b28019184dcc",
+    "public_token": "public-sandbox-677b62a2-8eca-4bcd-bb16-142d79ea17a4"
+  },
+  "public_token": "public-sandbox-677b62a2-8eca-4bcd-bb16-142d79ea17a4"
+}

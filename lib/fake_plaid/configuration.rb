@@ -1,5 +1,5 @@
 module FakePlaid
-  class Configuration
+  module Configuration
     attr_writer :fixture_path
 
     DEFAULT_FIXTURE_PATH = File.join(File.dirname(__FILE__), 'fixtures/')
