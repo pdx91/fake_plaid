@@ -6,7 +6,7 @@ module FakePlaid
 
     # Create an Item
     post '/link/item/create' do
-      if sandbox_credentials_valid?(params)
+      if sandbox_credentials_valid?
         json_response 200, fixture('create_item')
       end
     end
@@ -15,9 +15,22 @@ module FakePlaid
       json_response 200, fixture('exchange_token_response')
     end
 
+    post '/transactions/get' do
+      json_response 200, OpenStruct.new(transactions: fixture('transactions'))
+    end
+
     private
 
-    def sandbox_credentials_valid?(params)
+    # Monkey-paching `params` method.
+    #
+    # Requests from Plaid come in but the `params` are not populated.
+    def _params
+      return params if params.present?
+
+      @_params ||= JSON.parse(request.body.read)
+    end
+
+    def sandbox_credentials_valid?
       params.dig('credentials', 'username') == 'user_good' &&
         params.dig('credentials', 'password') == 'pass_good'
     end
