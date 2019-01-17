@@ -1,0 +1,1735 @@
+{
+  "transactions": [
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Travel",
+        "Airlines and Aviation Services"
+      ],
+      "category_id": "22001000",
+      "date": "2019-01-06",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "United Airlines",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "d4qwyMNLGniwWkoDygyVHj34VMDZ4oCZJrVpr",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 6.33,
+      "category": [
+        "Travel",
+        "Car Service",
+        "Ride Share"
+      ],
+      "category_id": "22006001",
+      "date": "2019-01-04",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Uber 072515 SF**POOL**",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "7zwpGRLK8MiBEvXGxMx4sJQ5PrmN5BCgdrDqv",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2019-01-01",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Tectra Inc",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "axwen6PZoWCJvKAynwnVHB9xX514xDC7ZVyMG",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 2078.5,
+      "category": [
+        "Payment"
+      ],
+      "category_id": "16000000",
+      "date": "2018-12-31",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "AUTOMATIC PAYMENT - THANK",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "PngbPkjlmacw5blNPxPyH93GodRJGps7oVqRp",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-12-31",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "KFC",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "NkpR48MEAxsa5wWN4k4bsqlmAZEdmpSWykRwl",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Shops",
+        "Sporting Goods"
+      ],
+      "category_id": "19046000",
+      "date": "2018-12-31",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Madison Bicycle Shop",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "4qXrEnpRMehQE5pMLbLXSgP9NRBJ9vCdJ4GPN",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "93l8bR5zGLInaN7jz4zPtxKNNZ8poQCRRkqNx",
+      "amount": 25,
+      "category": [
+        "Payment",
+        "Credit Card"
+      ],
+      "category_id": "16001000",
+      "date": "2018-12-22",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "CREDIT CARD 3333 PAYMENT *//",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "3l6K8nLRQ7CrRNdyo7o3Fw8GZ4zeGVsqZ54xW",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 5.4,
+      "category": [
+        "Travel",
+        "Car Service",
+        "Ride Share"
+      ],
+      "category_id": "22006001",
+      "date": "2018-12-22",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Uber 063015 SF**POOL**",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "eNKv9MypbkiqjG51989VU4wN137AN5CLreAXW",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "6rVgAnLqoZcP3BbjpWpain4lly5wj3uggm17R",
+      "amount": 5850,
+      "category": [
+        "Payment"
+      ],
+      "category_id": "16000000",
+      "date": "2018-12-21",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "ACH Electronic CreditGUSTO PAY 123456",
+      "payment_meta": {
+        "payment_method": "ACH"
+      },
+      "pending": false,
+      "transaction_id": "LE1VdpQkgBhq5bnPd8dGUGo3J8yB3KsPkdZmG",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "ymoVPkD7AQtXj9Ex848whGLrrMwVX8IyyoKRn",
+      "amount": 1000,
+      "category": [
+        "Transfer",
+        "Deposit"
+      ],
+      "category_id": "21007000",
+      "date": "2018-12-21",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "CD DEPOSIT .INITIAL.",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "BeaRVLvjrnHqELzlGVGDUNp6nJDv6Efw4VmlX",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 78.5,
+      "category": [
+        "Recreation",
+        "Gyms and Fitness Centers"
+      ],
+      "category_id": "17018000",
+      "date": "2018-12-20",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Touchstone Climbing",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "jQxbDLkWwqumA9yVgzgvHVKqxEZXqAi16lnen",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": -500,
+      "category": [
+        "Travel",
+        "Airlines and Aviation Services"
+      ],
+      "category_id": "22001000",
+      "date": "2018-12-20",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "United Airlines",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "Qb8Jjp7q94tD5eqNjajXt5eEkovwExFpwRbn9",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 12,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-12-19",
+      "iso_currency_code": "USD",
+      "location": {
+        "store_number": "3322"
+      },
+      "name": "McDonald's",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "Zl9qoEp4d1CNKk43oRoVuBjlDLrnlzCge9Zv4",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 4.33,
+      "category": [
+        "Food and Drink",
+        "Restaurants",
+        "Coffee Shop"
+      ],
+      "category_id": "13005043",
+      "date": "2018-12-19",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Starbucks",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "MWL7agR8E3hB59WPabaws1WbvxKobpt9LGa5E",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 89.4,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-12-18",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "SparkFun",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "1Xvlo6LRPkf8q7eBa4azUQolyjdnlWS5pE6aG",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "93l8bR5zGLInaN7jz4zPtxKNNZ8poQCRRkqNx",
+      "amount": -4.22,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-12-17",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "INTRST PYMNT",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "xbprNDRjEetvPXV36d6Zse1ka3JPk6hn6Lrbg",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Travel",
+        "Airlines and Aviation Services"
+      ],
+      "category_id": "22001000",
+      "date": "2018-12-07",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "United Airlines",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "A7dnDw4PqGcnZKrqzDzltepgqzyrJri18v8GB",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 6.33,
+      "category": [
+        "Travel",
+        "Car Service",
+        "Ride Share"
+      ],
+      "category_id": "22006001",
+      "date": "2018-12-05",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Uber 072515 SF**POOL**",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "1Xvlo6LRPkf8q7eBa4azUQoaq7r4n4h5zwkB6",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-12-02",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Tectra Inc",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "W6bR1XpxKQCE5kxr1y1Xs7qX6a1nLnslRGRLX",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 2078.5,
+      "category": [
+        "Payment"
+      ],
+      "category_id": "16000000",
+      "date": "2018-12-01",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "AUTOMATIC PAYMENT - THANK",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "EMP9qVnQayIn5kxzq3qat1zj6dqknksXyLyDV",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-12-01",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "KFC",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "8B5pnJvrW1cedwJmWbWNS9oXQDvM6MFwnyndr",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Shops",
+        "Sporting Goods"
+      ],
+      "category_id": "19046000",
+      "date": "2018-12-01",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Madison Bicycle Shop",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "gjzbRMNgvyCkeEnpRQRVHvXeDkmWLWcgoXo34",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "93l8bR5zGLInaN7jz4zPtxKNNZ8poQCRRkqNx",
+      "amount": 25,
+      "category": [
+        "Payment",
+        "Credit Card"
+      ],
+      "category_id": "16001000",
+      "date": "2018-11-22",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "CREDIT CARD 3333 PAYMENT *//",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "m145lMaKrztDqEoQrprvtkP84nWE7EcLE5EGl",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 5.4,
+      "category": [
+        "Travel",
+        "Car Service",
+        "Ride Share"
+      ],
+      "category_id": "22006001",
+      "date": "2018-11-22",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Uber 063015 SF**POOL**",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "MWL7agR8E3hB59WPabaws1WmBZa3o3s9KoWqd",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "6rVgAnLqoZcP3BbjpWpain4lly5wj3uggm17R",
+      "amount": 5850,
+      "category": [
+        "Payment"
+      ],
+      "category_id": "16000000",
+      "date": "2018-11-21",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "ACH Electronic CreditGUSTO PAY 123456",
+      "payment_meta": {
+        "payment_method": "ACH"
+      },
+      "pending": false,
+      "transaction_id": "JgZE3wQp1rCx5DPV3k3yu9ykaN36r6FdALy9j",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "ymoVPkD7AQtXj9Ex848whGLrrMwVX8IyyoKRn",
+      "amount": 1000,
+      "category": [
+        "Transfer",
+        "Deposit"
+      ],
+      "category_id": "21007000",
+      "date": "2018-11-21",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "CD DEPOSIT .INITIAL.",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "lMaZwmJkqrImlGEzW3W8HVoB7j1DADcZ4v4GQ",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 78.5,
+      "category": [
+        "Recreation",
+        "Gyms and Fitness Centers"
+      ],
+      "category_id": "17018000",
+      "date": "2018-11-20",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Touchstone Climbing",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "opP5K1Wzx3twrGEVRnR8H8Q9anN3W3uRj3jLp",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": -500,
+      "category": [
+        "Travel",
+        "Airlines and Aviation Services"
+      ],
+      "category_id": "22001000",
+      "date": "2018-11-20",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "United Airlines",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "Zl9qoEp4d1CNKk43oRoVuBjWQkgMnMig3jE4o",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 12,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-11-19",
+      "iso_currency_code": "USD",
+      "location": {
+        "store_number": "3322"
+      },
+      "name": "McDonald's",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "eNKv9MypbkiqjG51989VU4wWenXBABcLgwbpn",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 4.33,
+      "category": [
+        "Food and Drink",
+        "Restaurants",
+        "Coffee Shop"
+      ],
+      "category_id": "13005043",
+      "date": "2018-11-19",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Starbucks",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "Qb8Jjp7q94tD5eqNjajXt5eJLAjGwGSp1dgv4",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 89.4,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-11-18",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "SparkFun",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "7zwpGRLK8MiBEvXGxMx4sJQeEbxDNDFgZG5er",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "93l8bR5zGLInaN7jz4zPtxKNNZ8poQCRRkqNx",
+      "amount": -4.22,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-11-17",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "INTRST PYMNT",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "bd5xbDwM8Ai34GEx5X5VsXwWyAz7B7tVlwlRe",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Travel",
+        "Airlines and Aviation Services"
+      ],
+      "category_id": "22001000",
+      "date": "2018-11-07",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "United Airlines",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "poj5rMlBaxtdzEVQPZP8ulwX1N5GeGfLwxwRp",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 6.33,
+      "category": [
+        "Travel",
+        "Car Service",
+        "Ride Share"
+      ],
+      "category_id": "22006001",
+      "date": "2018-11-05",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Uber 072515 SF**POOL**",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "jQxbDLkWwqumA9yVgzgvHVKz1gWpXpc1E37D9",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-11-02",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Tectra Inc",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "LE1VdpQkgBhq5bnPd8dGUGoEVzd7B7TP7J7DP",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 2078.5,
+      "category": [
+        "Payment"
+      ],
+      "category_id": "16000000",
+      "date": "2018-11-01",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "AUTOMATIC PAYMENT - THANK",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "1Xvlo6LRPkf8q7eBa4azUQoaq7r4n4h5zwzWQ",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-11-01",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "KFC",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "MWL7agR8E3hB59WPabaws1WmBZa3o3s9KoKnb",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Shops",
+        "Sporting Goods"
+      ],
+      "category_id": "19046000",
+      "date": "2018-11-01",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Madison Bicycle Shop",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "Zl9qoEp4d1CNKk43oRoVuBjWQkgMnMig3j3Qw",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "93l8bR5zGLInaN7jz4zPtxKNNZ8poQCRRkqNx",
+      "amount": 25,
+      "category": [
+        "Payment",
+        "Credit Card"
+      ],
+      "category_id": "16001000",
+      "date": "2018-10-23",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "CREDIT CARD 3333 PAYMENT *//",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "nLN5qRbrBkc6KGy35e5vHln94NpbAbf6oBoaR",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 5.4,
+      "category": [
+        "Travel",
+        "Car Service",
+        "Ride Share"
+      ],
+      "category_id": "22006001",
+      "date": "2018-10-23",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Uber 063015 SF**POOL**",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "PngbPkjlmacw5blNPxPyH93WMmPeJeF714egK",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "6rVgAnLqoZcP3BbjpWpain4lly5wj3uggm17R",
+      "amount": 5850,
+      "category": [
+        "Payment"
+      ],
+      "category_id": "16000000",
+      "date": "2018-10-22",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "ACH Electronic CreditGUSTO PAY 123456",
+      "payment_meta": {
+        "payment_method": "ACH"
+      },
+      "pending": false,
+      "transaction_id": "5KDoWnJlLQilER7a8N8dIVwbgyBMeMcZvDnWw",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "ymoVPkD7AQtXj9Ex848whGLrrMwVX8IyyoKRn",
+      "amount": 1000,
+      "category": [
+        "Transfer",
+        "Deposit"
+      ],
+      "category_id": "21007000",
+      "date": "2018-10-22",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "CD DEPOSIT .INITIAL.",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "kZdyVMplJKuA16ErX3XvHlZ7Mz41q1fW9b9gE",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 78.5,
+      "category": [
+        "Recreation",
+        "Gyms and Fitness Centers"
+      ],
+      "category_id": "17018000",
+      "date": "2018-10-21",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Touchstone Climbing",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "Qb8Jjp7q94tD5eqNjajXt5eJLAjGwGSp1d1yn",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": -500,
+      "category": [
+        "Travel",
+        "Airlines and Aviation Services"
+      ],
+      "category_id": "22001000",
+      "date": "2018-10-21",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "United Airlines",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "NkpR48MEAxsa5wWN4k4bsqlLWN49d9sW31G9o",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 12,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-10-20",
+      "iso_currency_code": "USD",
+      "location": {
+        "store_number": "3322"
+      },
+      "name": "McDonald's",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "axwen6PZoWCJvKAynwnVHB9vgGWy4yi7N9Ere",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 4.33,
+      "category": [
+        "Food and Drink",
+        "Restaurants",
+        "Coffee Shop"
+      ],
+      "category_id": "13005043",
+      "date": "2018-10-20",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Starbucks",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "4qXrEnpRMehQE5pMLbLXSgP8orzaJatdoxvBk",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 89.4,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-10-19",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "SparkFun",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "d4qwyMNLGniwWkoDygyVHj367APxZxcZk3b7D",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "93l8bR5zGLInaN7jz4zPtxKNNZ8poQCRRkqNx",
+      "amount": -4.22,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-10-18",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "INTRST PYMNT",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "GL7QrnRMjlcx5K9orvrduopXxjr7l7C1a4aV9",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Travel",
+        "Airlines and Aviation Services"
+      ],
+      "category_id": "22001000",
+      "date": "2018-10-08",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "United Airlines",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "eNKv9MypbkiqjG51989VU4wWenXBABcLgwg6G",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 6.33,
+      "category": [
+        "Travel",
+        "Car Service",
+        "Ride Share"
+      ],
+      "category_id": "22006001",
+      "date": "2018-10-06",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Uber 072515 SF**POOL**",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "xbprNDRjEetvPXV36d6Zse1EvBDxPxin1Ez8y",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-10-03",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Tectra Inc",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "7zwpGRLK8MiBEvXGxMx4sJQeEbxDNDFgZGZvP",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 2078.5,
+      "category": [
+        "Payment"
+      ],
+      "category_id": "16000000",
+      "date": "2018-10-02",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "AUTOMATIC PAYMENT - THANK",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "jQxbDLkWwqumA9yVgzgvHVKz1gWpXpc1E3Ep4",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-10-02",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "KFC",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "PngbPkjlmacw5blNPxPyH93WMmPeJeF71413k",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Shops",
+        "Sporting Goods"
+      ],
+      "category_id": "19046000",
+      "date": "2018-10-02",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Madison Bicycle Shop",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "NkpR48MEAxsa5wWN4k4bsqlLWN49d9sW313eG",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "93l8bR5zGLInaN7jz4zPtxKNNZ8poQCRRkqNx",
+      "amount": 25,
+      "category": [
+        "Payment",
+        "Credit Card"
+      ],
+      "category_id": "16001000",
+      "date": "2018-09-23",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "CREDIT CARD 3333 PAYMENT *//",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "JgZE3wQp1rCx5DPV3k3yu9ykaN36r6FdALAl4",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 5.4,
+      "category": [
+        "Travel",
+        "Car Service",
+        "Ride Share"
+      ],
+      "category_id": "22006001",
+      "date": "2018-09-23",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Uber 063015 SF**POOL**",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "3l6K8nLRQ7CrRNdyo7o3Fw8oRxEBeBUqAajzZ",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "6rVgAnLqoZcP3BbjpWpain4lly5wj3uggm17R",
+      "amount": 5850,
+      "category": [
+        "Payment"
+      ],
+      "category_id": "16000000",
+      "date": "2018-09-22",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "ACH Electronic CreditGUSTO PAY 123456",
+      "payment_meta": {
+        "payment_method": "ACH"
+      },
+      "pending": false,
+      "transaction_id": "wnLK4RxPg7cgVGoWljlvsZNvLWn9x9crG6p5p",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "ymoVPkD7AQtXj9Ex848whGLrrMwVX8IyyoKRn",
+      "amount": 1000,
+      "category": [
+        "Transfer",
+        "Deposit"
+      ],
+      "category_id": "21007000",
+      "date": "2018-09-22",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "CD DEPOSIT .INITIAL.",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "JgZE3wQp1rCx5DPV3k3yu9ykaN36r6FdALAW4",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 78.5,
+      "category": [
+        "Recreation",
+        "Gyms and Fitness Centers"
+      ],
+      "category_id": "17018000",
+      "date": "2018-09-21",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Touchstone Climbing",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "4qXrEnpRMehQE5pMLbLXSgP8orzaJatdoxoDo",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": -500,
+      "category": [
+        "Travel",
+        "Airlines and Aviation Services"
+      ],
+      "category_id": "22001000",
+      "date": "2018-09-21",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "United Airlines",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "BeaRVLvjrnHqELzlGVGDUNp4Q3MxvxuwBGprw",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 12,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-09-20",
+      "iso_currency_code": "USD",
+      "location": {
+        "store_number": "3322"
+      },
+      "name": "McDonald's",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "r8eJB7Kxjato3GElKBKVsEvlBng919tlQvAEL",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 4.33,
+      "category": [
+        "Food and Drink",
+        "Restaurants",
+        "Coffee Shop"
+      ],
+      "category_id": "13005043",
+      "date": "2018-09-20",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Starbucks",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "zygmjlAenZTdkMbRE9EQuA18DxndrdCoVGypE",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 89.4,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-09-19",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "SparkFun",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "K8MnxAyopztL5pjPxRxVCD9GX3xe7etVyv9M7",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "93l8bR5zGLInaN7jz4zPtxKNNZ8poQCRRkqNx",
+      "amount": -4.22,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-09-18",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "INTRST PYMNT",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "5KDoWnJlLQilER7a8N8dIVwbgyBMeMcZvDvan",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Travel",
+        "Airlines and Aviation Services"
+      ],
+      "category_id": "22001000",
+      "date": "2018-09-08",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "United Airlines",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "axwen6PZoWCJvKAynwnVHB9vgGWy4yi7N9Ndq",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 6.33,
+      "category": [
+        "Travel",
+        "Car Service",
+        "Ride Share"
+      ],
+      "category_id": "22006001",
+      "date": "2018-09-06",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Uber 072515 SF**POOL**",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "qg7RzJq3NdC4nWwQ9M9vI1kjLZBGoGsdEqjn5",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-09-03",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Tectra Inc",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "d4qwyMNLGniwWkoDygyVHj367APxZxcZk3kgW",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 2078.5,
+      "category": [
+        "Payment"
+      ],
+      "category_id": "16000000",
+      "date": "2018-09-02",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "AUTOMATIC PAYMENT - THANK",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "xbprNDRjEetvPXV36d6Zse1EvBDxPxin1E1lE",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-09-02",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "KFC",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "3l6K8nLRQ7CrRNdyo7o3Fw8oRxEBeBUqAaAoD",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Shops",
+        "Sporting Goods"
+      ],
+      "category_id": "19046000",
+      "date": "2018-09-02",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Madison Bicycle Shop",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "BeaRVLvjrnHqELzlGVGDUNp4Q3MxvxuwBGBeo",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "93l8bR5zGLInaN7jz4zPtxKNNZ8poQCRRkqNx",
+      "amount": 25,
+      "category": [
+        "Payment",
+        "Credit Card"
+      ],
+      "category_id": "16001000",
+      "date": "2018-08-24",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "CREDIT CARD 3333 PAYMENT *//",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "wnLK4RxPg7cgVGoWljlvsZNvLWn9x9crG6G4G",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 5.4,
+      "category": [
+        "Travel",
+        "Car Service",
+        "Ride Share"
+      ],
+      "category_id": "22006001",
+      "date": "2018-08-24",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Uber 063015 SF**POOL**",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "lMaZwmJkqrImlGEzW3W8HVoB7j1DADcZ4vqlx",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "6rVgAnLqoZcP3BbjpWpain4lly5wj3uggm17R",
+      "amount": 5850,
+      "category": [
+        "Payment"
+      ],
+      "category_id": "16000000",
+      "date": "2018-08-23",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "ACH Electronic CreditGUSTO PAY 123456",
+      "payment_meta": {
+        "payment_method": "ACH"
+      },
+      "pending": false,
+      "transaction_id": "VRnWMZw3lecj5yAKMQMqILaWRAMEnEtWaJVwa",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "ymoVPkD7AQtXj9Ex848whGLrrMwVX8IyyoKRn",
+      "amount": 1000,
+      "category": [
+        "Transfer",
+        "Deposit"
+      ],
+      "category_id": "21007000",
+      "date": "2018-08-23",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "CD DEPOSIT .INITIAL.",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "5KDoWnJlLQilER7a8N8dIVwbgyBMeMcZvDven",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 78.5,
+      "category": [
+        "Recreation",
+        "Gyms and Fitness Centers"
+      ],
+      "category_id": "17018000",
+      "date": "2018-08-22",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Touchstone Climbing",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "zygmjlAenZTdkMbRE9EQuA18DxndrdCoVGVPN",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": -500,
+      "category": [
+        "Travel",
+        "Airlines and Aviation Services"
+      ],
+      "category_id": "22001000",
+      "date": "2018-08-22",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "United Airlines",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "kZdyVMplJKuA16ErX3XvHlZ7Mz41q1fW9bjkn",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 12,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-08-21",
+      "iso_currency_code": "USD",
+      "location": {
+        "store_number": "3322"
+      },
+      "name": "McDonald's",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "5KDoWnJlLQilER7a8N8dIVwbgyBMeMcZvDn9w",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 4.33,
+      "category": [
+        "Food and Drink",
+        "Restaurants",
+        "Coffee Shop"
+      ],
+      "category_id": "13005043",
+      "date": "2018-08-21",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Starbucks",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "JgZE3wQp1rCx5DPV3k3yu9ykaN36r6FdALymj",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 89.4,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-08-20",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "SparkFun",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "wnLK4RxPg7cgVGoWljlvsZNvLWn9x9crG6pJp",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "93l8bR5zGLInaN7jz4zPtxKNNZ8poQCRRkqNx",
+      "amount": -4.22,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-08-19",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "INTRST PYMNT",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "VRnWMZw3lecj5yAKMQMqILaWRAMEnEtWaJaj4",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Travel",
+        "Airlines and Aviation Services"
+      ],
+      "category_id": "22001000",
+      "date": "2018-08-09",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "United Airlines",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "r8eJB7Kxjato3GElKBKVsEvlBng919tlQvQK9",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 6.33,
+      "category": [
+        "Travel",
+        "Car Service",
+        "Ride Share"
+      ],
+      "category_id": "22006001",
+      "date": "2018-08-07",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Uber 072515 SF**POOL**",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "VRnWMZw3lecj5yAKMQMqILaWRAMEnEtWaJVza",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-08-04",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Tectra Inc",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "K8MnxAyopztL5pjPxRxVCD9GX3xe7etVyvywo",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 2078.5,
+      "category": [
+        "Payment"
+      ],
+      "category_id": "16000000",
+      "date": "2018-08-03",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "AUTOMATIC PAYMENT - THANK",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "qg7RzJq3NdC4nWwQ9M9vI1kjLZBGoGsdEqEby",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-08-03",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "KFC",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "lMaZwmJkqrImlGEzW3W8HVoB7j1DADcZ4v49R",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Shops",
+        "Sporting Goods"
+      ],
+      "category_id": "19046000",
+      "date": "2018-08-03",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Madison Bicycle Shop",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "kZdyVMplJKuA16ErX3XvHlZ7Mz41q1fW9b9Pp",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "93l8bR5zGLInaN7jz4zPtxKNNZ8poQCRRkqNx",
+      "amount": 25,
+      "category": [
+        "Payment",
+        "Credit Card"
+      ],
+      "category_id": "16001000",
+      "date": "2018-07-25",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "CREDIT CARD 3333 PAYMENT *//",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "DZN8ln4exmux5EW8lql4uV7X8plb6bcv181AP",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 5.4,
+      "category": [
+        "Travel",
+        "Car Service",
+        "Ride Share"
+      ],
+      "category_id": "22006001",
+      "date": "2018-07-25",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Uber 063015 SF**POOL**",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "DZN8ln4exmux5EW8lql4uV7X8plb6bcv18obg",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "6rVgAnLqoZcP3BbjpWpain4lly5wj3uggm17R",
+      "amount": 5850,
+      "category": [
+        "Payment"
+      ],
+      "category_id": "16000000",
+      "date": "2018-07-24",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "ACH Electronic CreditGUSTO PAY 123456",
+      "payment_meta": {
+        "payment_method": "ACH"
+      },
+      "pending": false,
+      "transaction_id": "DZN8ln4exmux5EW8lql4uV7X8plb6bcv18okg",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "ymoVPkD7AQtXj9Ex848whGLrrMwVX8IyyoKRn",
+      "amount": 1000,
+      "category": [
+        "Transfer",
+        "Deposit"
+      ],
+      "category_id": "21007000",
+      "date": "2018-07-24",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "CD DEPOSIT .INITIAL.",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "wnLK4RxPg7cgVGoWljlvsZNvLWn9x9crG6GDG",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 78.5,
+      "category": [
+        "Recreation",
+        "Gyms and Fitness Centers"
+      ],
+      "category_id": "17018000",
+      "date": "2018-07-23",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Touchstone Climbing",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "JgZE3wQp1rCx5DPV3k3yu9ykaN36r6FdALA7g",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": -500,
+      "category": [
+        "Travel",
+        "Airlines and Aviation Services"
+      ],
+      "category_id": "22001000",
+      "date": "2018-07-23",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "United Airlines",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "XXm8LbQdzZfdlbAXL9LGuQoL5lwe4ehdQRXGW",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 12,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-07-22",
+      "iso_currency_code": "USD",
+      "location": {
+        "store_number": "3322"
+      },
+      "name": "McDonald's",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "RmE87wZKRNt65QKb797oHdrbM17pzpFR9Qq8g",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 4.33,
+      "category": [
+        "Food and Drink",
+        "Restaurants",
+        "Coffee Shop"
+      ],
+      "category_id": "13005043",
+      "date": "2018-07-22",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Starbucks",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "6rVgAnLqoZcP3BbjpWpain4k3JeLxLtg6Rl4R",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 89.4,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-07-21",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "SparkFun",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "vG1qag3NpjuX4E1zgxgvhELdJrWGXGtWpDKrQ",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "93l8bR5zGLInaN7jz4zPtxKNNZ8poQCRRkqNx",
+      "amount": -4.22,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-07-20",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "INTRST PYMNT",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "XXm8LbQdzZfdlbAXL9LGuQoL5lwe4ehdQRQ7R",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Travel",
+        "Airlines and Aviation Services"
+      ],
+      "category_id": "22001000",
+      "date": "2018-07-10",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "United Airlines",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "5KDoWnJlLQilER7a8N8dIVwbgyBMeMcZvDvBM",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "RmE87wZKRNt65QKb797oHdrmmwl4VMfRRwPVg",
+      "amount": 6.33,
+      "category": [
+        "Travel",
+        "Car Service",
+        "Ride Share"
+      ],
+      "category_id": "22006001",
+      "date": "2018-07-08",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Uber 072515 SF**POOL**",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "93l8bR5zGLInaN7jz4zPtxKqQgkjDjcRrmvjx",
+      "transaction_type": "special"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Food and Drink",
+        "Restaurants"
+      ],
+      "category_id": "13005000",
+      "date": "2018-07-05",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Tectra Inc",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "wnLK4RxPg7cgVGoWljlvsZNvLWn9x9crG6Gex",
+      "transaction_type": "place"
+    },
+    {
+      "account_id": "vG1qag3NpjuX4E1zgxgvhEL33oQwkJUWWgvQQ",
+      "amount": 500,
+      "category": [
+        "Shops",
+        "Sporting Goods"
+      ],
+      "category_id": "19046000",
+      "date": "2018-07-04",
+      "iso_currency_code": "USD",
+      "location": {},
+      "name": "Madison Bicycle Shop",
+      "payment_meta": {},
+      "pending": false,
+      "transaction_id": "XXm8LbQdzZfdlbAXL9LGuQoL5lwe4ehdQRQBV",
+      "transaction_type": "place"
+    }
+  ]
+}
