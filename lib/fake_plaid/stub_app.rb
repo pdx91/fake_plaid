@@ -1,4 +1,5 @@
 require 'sinatra/base'
+require "active_support/core_ext/date_and_time/calculations"
 
 module FakePlaid
   class StubApp < Sinatra::Base
@@ -50,10 +51,38 @@ module FakePlaid
 
     def derive_transactions_from_params
       if valid_transaction_params?
-        transactions_json = JSON.parse(fixture('transactions')).dig('transactions')
+        # Fetch base transactions. (Count: 100)
+        transactions_arr = JSON.parse(fixture('transactions')).dig('transactions')
 
-        transactions = transactions_json.select do |txn|
-          txn.dig('date') > start_date && txn.dig('date') < end_date
+        # We need to update the dates on these transactions so they are
+        # dynamic.
+        #
+        # Dates are set like this:
+        # 1.year.ago > date >= Date.current
+        #
+        # Date format:
+        # 'YYYY-MM-DD'
+        #
+        # Update all transactions except 5 with random date.
+        # Update at least 5 with current date.
+        #
+        # Current date is needed to replicate 'new' fetched transactions.
+        transactions_arr.drop(5).each_slice(5) do |txns|
+          # Generate random date every 5 transactions
+          date = rand_date
+
+          txns.each do |txn|
+            txn['date'] = date.strftime('%Y-%m-%d')
+          end
+        end
+
+        # Update 5 transactions with current date.
+        transactions_arr[0..4].each do |txn|
+          txn['date'] = Date.current.strftime('%Y-%m-%d')
+        end
+
+        transactions = transactions_arr.select do |txn|
+          txn.dig('date') > start_date && txn.dig('date') <= end_date
         end
 
         JSON.generate(
@@ -65,6 +94,10 @@ module FakePlaid
           end
         )
       end
+    end
+
+    def rand_date(from=1.year.ago.to_date, to=Date.current)
+      rand(from..to)
     end
 
     def valid_transaction_params?
