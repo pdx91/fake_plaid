@@ -37,7 +37,8 @@
       "account_id": "L8wwdekm7kI4o36rGaJvCQK141Ap4NiPMzpPz",
       "balances": {
         "available": null,
-        "current": 410
+        "current": 410,
+        "limit": 10000
       },
       "mask": "3333",
       "name": "Plaid Credit Card",
